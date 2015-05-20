@@ -1,2 +1,3 @@
 # JavaFundamentals
-Java Fundamentals Part1 PluralSight John Sonmez
+Java Fundamentals Part1 by PluralSight John Sonmez.
+Just learning.
